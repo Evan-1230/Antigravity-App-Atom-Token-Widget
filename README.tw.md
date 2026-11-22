@@ -55,7 +55,7 @@
 
 ## 🚀 快速開始
 
-1. 前往 **[Releases](https://github.com/Evan-1230/)** 下載最新 ZIP 檔（或點擊右上角 **`Code` → `Download ZIP`**）並解壓縮至任意資料夾。
+1. 前往 **[Releases](https://github.com/Evan-1230/Antigravity-App-Atom-Token-Widget/releases)** 下載最新 ZIP 檔（或點擊右上角 **`Code` → `Download ZIP`**）並解壓縮至任意資料夾。
 2. 雙擊執行根目錄的 **`Install_widget.bat`**。
 3. 等待數秒完成本機編譯與設定套用後， 3D 模型將自動啟動。
 4. 若 Antigravity 目前已開啟且模型尚未更新，請在 Antigravity 視窗內按 **`Ctrl + R`** 重新載入介面或**重新啟動應用程式**。
@@ -68,7 +68,7 @@
 
 啟動後會在 Windows 右下角工作列 `∧` 顯示圖示，**雙擊圖示**可快速顯示／隱藏懸浮原子小工具，**按右鍵**可設定：
 
-- **3D 原子模型顯示**：自動跟隨 AI 模型 (Auto) ／ Gemini 4 系列模型（`支援模型詳見`[Releases](https://github.com/Evan-1230/)）
+- **3D 原子模型顯示**：自動跟隨 AI 模型 (Auto) ／ Gemini 4 系列模型（`支援模型詳見`[Releases](https://github.com/Evan-1230/Antigravity-App-Atom-Token-Widget/releases)）
 - **Token 統計範圍**：當前對話 (Session) ／ 今日累計 (Today) ／ 全部紀錄 (All-Time) ／ 納入子代理 (`+Subagents`)
 - **模型尺寸比例**：`80%` ／ `標準 (100%)` ／ `120%` ／ `140%` ／ `160%`（若於 App 內設定滑動條拉至非此五檔的數值則不顯示勾選，仍可直接從選單切回任一檔位）
 - **開啟動態效果**：開／關 3D 動態旋轉特效（關閉時靜態顯示）
