@@ -68,7 +68,7 @@ A floating 3D Token Counter widget built for **Antigravity Desktop (Antigravity 
 
 Once launched, an icon appears in the bottom-right Windows taskbar under `∧`. **Double-click the icon** to quickly show/hide the floating atom widget, or **right-click** to configure:
 
-- **3D Bohr Atom Model**: Auto-Follow AI Model (Auto) / Gemini 4 series models (`Supported models:` [Releases]())
+- **3D Bohr Atom Model**: Auto-Follow AI Model (Auto) / Gemini 4 series models (`Supported models:` [Releases](https://github.com/Evan-1230/Antigravity-App-Atom-Token-Widget/releases))
 - **Token Scope**: Current Conversation (Session) / Today / All-Time / Include Subagents (`+Subagents`)
 - **Widget Size**: `80%` / `Standard (100%)` / `120%` / `140%` / `160%` (if the in-app slider is set between these five presets, no checkmark is shown, while any preset can still be selected directly from the menu)
 - **Enable 3D Animation**: Toggle 3D rotational animation on/off (displays statically when disabled)
