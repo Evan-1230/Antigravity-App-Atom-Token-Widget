@@ -55,7 +55,7 @@ A floating 3D Token Counter widget built for **Antigravity Desktop (Antigravity 
 
 ## 🚀 Quick Start
 
-1. Download the latest ZIP from **[Releases](https://github.com/Evan-1230/)** (or click **`Code` → `Download ZIP`**) and extract it to any folder.
+1. Download the latest ZIP from **[Releases](https://github.com/Evan-1230/Antigravity-App-Atom-Token-Widget/releases)** (or click **`Code` → `Download ZIP`**) and extract it to any folder.
 2. Double-click **`Install_widget.bat`** in the root folder.
 3. Wait a few seconds for local compilation and configuration to finish; the 3D widget will launch automatically.
 4. If Antigravity is already open and the model hasn't updated yet, press **`Ctrl + R`** inside the Antigravity window to reload the UI or **restart the application**.
