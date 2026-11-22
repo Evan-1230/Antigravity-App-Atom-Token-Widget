@@ -59,8 +59,6 @@ A floating 3D Token Counter widget built for **Antigravity Desktop (Antigravity 
 2. Double-click **`Install_widget.bat`** in the root folder.
 3. Wait a few seconds for local compilation and configuration to finish; the 3D widget will launch automatically.
 4. If Antigravity is already open and the model hasn't updated yet, press **`Ctrl + R`** inside the Antigravity window to reload the UI or **restart the application**.
-5. Double-clicking **`Install_widget.bat`** compiles and launches the widget locally (installed to `%LOCALAPPDATA%\AntigravityAtomTokenWidget`).
-6. Double-clicking **`Uninstall_widget.bat`** closes the widget, removes the Windows startup entry, and completely removes the installation directory.
 
 ---
 
