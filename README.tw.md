@@ -60,7 +60,6 @@
 3. 等待數秒完成本機編譯與設定套用後， 3D 模型將自動啟動。
 4. 若 Antigravity 目前已開啟且模型尚未更新，請在 Antigravity 視窗內按 **`Ctrl + R`** 重新載入介面或**重新啟動應用程式**。
 5. 雙擊 **`Install_widget.bat`** 即可於本機編譯與啟動（安裝於 `%LOCALAPPDATA%\AntigravityAtomTokenWidget`）。
-6. 雙擊 **`Uninstall_widget.bat`** 即可關閉程式、清除開機啟動項並完整移除安裝目錄。
 
 ---
 
