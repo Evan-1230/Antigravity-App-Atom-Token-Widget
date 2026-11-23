@@ -6,7 +6,7 @@
   <img src="./assets/atom_widget.ico" alt="Antigravity Atom Token Widget App Icon" width="128" />
 </p>
 
-A floating 3D Token Counter widget built for **Antigravity Desktop (Antigravity 2.0 on Windows)**. Visualizes the active **Gemini 4 series model** with a 3D Bohr-Rutherford atom model styled to match the **Google AI Studio Periodic Table** palette.
+A floating 3D Token Counter widget built for **Antigravity Desktop App (Antigravity 2.0)**. Visualizes the active **Gemini 4 series model** with a 3D Bohr-Rutherford atom model styled to match the **Google AI Studio Periodic Table** palette.
 
 ---
 
