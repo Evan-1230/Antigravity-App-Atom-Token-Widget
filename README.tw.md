@@ -44,6 +44,9 @@
 | :---: | :---: |
 | ![深色模式右鍵設定選單](./docs/preview_settings_argon_dark.png) | ![淺色模式右鍵設定選單](./docs/preview_settings_orchestrator_argon_light.png) |
 
+<table><tr><td>src="./docs/preview_settings_argon_dark.png" width="100%"</td></tr></table>
+<table><tr><td>src="./docs/preview_settings_orchestrator_argon_light.png" width="100%"</td></tr></table>
+
 ---
 
 ## 💻 系統需求
