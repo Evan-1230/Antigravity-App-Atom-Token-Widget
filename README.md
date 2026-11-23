@@ -41,6 +41,7 @@ A floating 3D Token Counter widget built for **Antigravity Desktop (Antigravity 
 ### In-App Right-Click Settings Menu
 
 <table><tr><th width="50%">Dark Mode (Argon)</th><th width="50%">Light Mode (Orchestrator Argon)</th></tr><tr><td><img src="./docs/preview_settings_argon_dark_en.png" alt="Dark Settings Menu" width="100%"></td><td><img src="./docs/preview_settings_orchestrator_argon_light_en.png" alt="Light Settings Menu" width="100%"></td></tr></table>
+
 ---
 
 ## 💻 System Requirements
