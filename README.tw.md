@@ -43,7 +43,7 @@
 | 深色模式（Argon） | 淺色模式（Orchestrator Argon） |
 | :---: | :---: |
 | ![深色模式右鍵設定選單](./docs/preview_settings_argon_dark.png) | ![淺色模式右鍵設定選單](./docs/preview_settings_orchestrator_argon_light.png) |
-<table><tr><th width="50%">深色模式（Argon）</th><th width="50%">淺色模式（Orchestrator Argon）</th></tr><tr><td><img src="./docs/preview_settings_argon_dark.png" alt="深色模式右鍵設定選單" width="50%"></td></tr><tr><td><img src="./docs/preview_settings_orchestrator_argon_light.png" alt="淺色模式右鍵設定選單" width="50%"></td></tr></table>
+<table><tr><th width="50%">深色模式（Argon）</th><th width="50%">淺色模式（Orchestrator Argon）</th></tr><tr><td><img src="./docs/preview_settings_argon_dark.png" alt="深色模式右鍵設定選單" width="100%"></td></tr><tr><td><img src="./docs/preview_settings_orchestrator_argon_light.png" alt="淺色模式右鍵設定選單" width="100%"></td></tr></table>
 
 ---
 
