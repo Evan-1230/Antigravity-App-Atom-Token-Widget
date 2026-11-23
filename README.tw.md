@@ -6,7 +6,7 @@
   <img src="./assets/atom_widget.ico" alt="Antigravity Atom Token Widget App Icon" width="128" />
 </p>
 
-為 **Antigravity 桌面版（Antigravity 2.0 on Windows）** 打造的 3D 懸浮 Token 統計小工具。以立體波耳－拉塞福原子模型（3D Bohr-Rutherford Atom）視覺化呈現目前使用中的 **Gemini 4 系列模型**，並對應 **Google AI Studio 元素週期表選單**配色。
+為 **Antigravity 桌面版（Antigravity 2.0）** 打造的 3D 懸浮 Token 統計小工具。以立體波耳－拉塞福原子模型（3D Bohr-Rutherford Atom）視覺化呈現目前使用中的 **Gemini 4 系列模型**，並對應 **Google AI Studio 元素週期表選單**配色。
 
 ---
 
