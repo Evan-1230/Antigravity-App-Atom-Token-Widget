@@ -16,6 +16,7 @@
   - **Orchestrator 模式自動適應質感**：自動偵測 Orchestrator 模式與淺／深色主題，質子、中子與電子分別呈現**金屬金 / 銀 / 銅**質感，並於電子軌道附帶柔和的**藍色電流特效**。
 - **Token 細項統計**
   - 直接以唯讀模式讀取本機 Antigravity 對話紀錄，依官方 Gemini `UsageMetadata` 正式名稱顯示：`Prompt Tokens (Uncached)`、`Cached Content Tokens`、`Candidates Tokens`、`Thoughts Tokens` 與 `Total Tokens`。
+  -   - **等效 API 價值（可選開關）**：開啟後會依每筆 `UsageMetadata` 實際呼叫的模型，以官方美金API計價逐筆換算（支援 Orchestrator 多模型混用與對話中途切換模型），並顯示於迷你視窗總 Token 右側（如 `84.90M · $34.43`）。
 - **自由拖動** 
   - 可將 3D 模型自由拖動至應用程式內心儀的位置。
 - **極簡氣泡 ＋ 游標展開 ＋ 專屬設定視窗**
@@ -65,7 +66,7 @@
 啟動後會在 Windows 右下角工作列 `∧` 顯示圖示，**雙擊圖示**可快速顯示／隱藏懸浮原子小工具，**按右鍵**可設定：
 
 - **3D 原子模型顯示**：自動跟隨 AI 模型 (Auto) ／ Gemini 4 系列模型（`支援模型詳見`[Releases](https://github.com/Evan-1230/Antigravity-App-Atom-Token-Widget/releases)）
-- **Token 統計範圍**：當前對話 (Session) ／ 今日累計 (Today) ／ 全部紀錄 (All-Time) ／ 納入子代理 (`+Subagents`)
+- **Token 統計範圍**：當前對話 (Session) ／ 今日累計 (Today) ／ 全部紀錄 (All-Time) ／ 納入子代理 (`+Subagents`) ／ 顯示等效 API 價值 (USD)
 - **模型尺寸比例**：`80%` ／ `標準 (100%)` ／ `120%` ／ `140%` ／ `160%`（若於 App 內設定滑動條拉至非此五檔的數值則不顯示勾選，仍可直接從選單切回任一檔位）
 - **開啟動態效果**：開／關 3D 動態旋轉特效（關閉時靜態顯示）
 - **隱藏懸浮小工具（雙擊圖示）**：快速顯示或隱藏懸浮原子小工具
