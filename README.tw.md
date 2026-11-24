@@ -16,7 +16,7 @@
   - **Orchestrator 模式自動適應質感**：自動偵測 Orchestrator 模式與淺／深色主題，質子、中子與電子分別呈現**金屬金 / 銀 / 銅**質感，並於電子軌道附帶柔和的**藍色電流特效**。
 - **Token 細項統計**
   - 直接以唯讀模式讀取本機 Antigravity 對話紀錄，依官方 Gemini `UsageMetadata` 正式名稱顯示：`Prompt Tokens (Uncached)`、`Cached Content Tokens`、`Candidates Tokens`、`Thoughts Tokens` 與 `Total Tokens`。
-  -   - **等效 API 價值（可選開關）**：開啟後會依每筆 `UsageMetadata` 實際呼叫的模型，以官方美金API計價逐筆換算（支援 Orchestrator 多模型混用與對話中途切換模型），並顯示於迷你視窗總 Token 右側（如 `84.90M · $34.43`）。
+  - **等效 API 價值（可選開關）**：開啟後會依每筆 `UsageMetadata` 實際呼叫的模型，以官方美金API計價逐筆換算（支援 Orchestrator 多模型混用與對話中途切換模型），並顯示於迷你視窗總 Token 右側（如 `84.90M · $34.43`）。
 - **自由拖動** 
   - 可將 3D 模型自由拖動至應用程式內心儀的位置。
 - **極簡氣泡 ＋ 游標展開 ＋ 專屬設定視窗**
