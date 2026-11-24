@@ -16,6 +16,7 @@ A floating 3D Token Counter widget built for **Antigravity Desktop App (Antigrav
   - **Auto-Adaptive Orchestrator Finish**: Automatically detects Orchestrator mode and Light/Dark themes, rendering protons, neutrons, and electrons in metallic **Gold / Silver / Copper** finishes with subtle **blue electric current effects** along the electron orbits.
 - **Token Breakdown Statistics**
   - Reads local Antigravity conversation history in read-only mode and displays official Gemini `UsageMetadata` labels: `Prompt Tokens (Uncached)`, `Cached Content Tokens`, `Candidates Tokens`, `Thoughts Tokens`, and `Total Tokens`.
+  - **Equivalent API Value (Optional Toggle)**: When enabled, calculates the cost per call using official USD API pricing for the exact model invoked in each `UsageMetadata` entry (supporting multi-model Orchestrator runs and mid-conversation model switching), and displays it to the right of Total Tokens in the mini bubble (e.g., `84.90M · $34.43`).
 - **Free Dragging**
   - Freely drag the 3D model to any preferred position within the application window.
 - **Minimal Bubble + Hover Expand + Dedicated Settings Window**
@@ -65,7 +66,7 @@ A floating 3D Token Counter widget built for **Antigravity Desktop App (Antigrav
 Once launched, an icon appears in the bottom-right Windows taskbar under `∧`. **Double-click the icon** to quickly show/hide the floating atom widget, or **right-click** to configure:
 
 - **3D Bohr Atom Model**: Auto-Follow AI Model (Auto) / Gemini 4 series models (`Supported models:` [Releases](https://github.com/Evan-1230/Antigravity-App-Atom-Token-Widget/releases))
-- **Token Scope**: Current Conversation (Session) / Today / All-Time / Include Subagents (`+Subagents`)
+- **Token Scope**: Current Conversation (Session) / Today / All-Time / Include Subagents (`+Subagents`) / Show Equivalent API Value (USD)
 - **Widget Size**: `80%` / `Standard (100%)` / `120%` / `140%` / `160%` (if the in-app slider is set between these five presets, no checkmark is shown, while any preset can still be selected directly from the menu)
 - **Enable 3D Animation**: Toggle 3D rotational animation on/off (displays statically when disabled)
 - **Hide Floating Widget (Double-Click)**: Quickly show or hide the floating atom widget
